@@ -1,0 +1,6 @@
+nltk
+spacy
+scikit-learn
+joblib
+python-docx
+PyMuPDF
